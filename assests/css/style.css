@@ -1,0 +1,28 @@
+th {
+    font-weight: 500;
+}
+
+.card-body a {
+    word-break: break-all;
+  }
+
+  .articleHeadline {
+    line-height: 1.5;
+  }
+
+  .jumbotron {
+    background-color: #7e462f ; 
+    color: white;
+  }
+
+  tbody tr:hover{
+    background-color:lightgray;
+  }
+
+  .card-header {
+    background-color: #377bb5;
+  }
+
+  #submitButton {
+    background-color: #377bb5;
+  }
